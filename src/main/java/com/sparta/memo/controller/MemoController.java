@@ -35,7 +35,7 @@ public class MemoController {
 
         // Entity-> ResponseDto로 변환
 
-        MemoResponseDto memoResponseDto = new MemoResponseDto(memo);
+        MemoResponseDto memoResponseDto = new MemoResponseDto(memo);///
 
         return memoResponseDto;//
     }
