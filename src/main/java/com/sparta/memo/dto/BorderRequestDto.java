@@ -3,7 +3,7 @@ package com.sparta.memo.dto;
 import lombok.Getter;
 
 @Getter
-public class MemoRequestDto {
+public class BorderRequestDto {
     private String username;
     private String contents;
 }
